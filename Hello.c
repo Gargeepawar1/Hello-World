@@ -1,6 +1,6 @@
 #include<stdio.h>
 voidmain()
 {
-  printf("Hello World")
-  printf("\nThis is updated")
+  printf("Hello World");
+  printf("\nThis is updated");
 }
